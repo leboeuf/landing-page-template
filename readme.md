@@ -4,6 +4,12 @@ Responsive landing page template with e-mail input.
 
 Landing pages can be used to test customer demand before building a minimum viable product or to gather a mailing list for a product launch.
 
+## Screenshot
+
+![Landing page template screenshot](/screenshot.png?raw=true)
+
+Background image by Bruno Marinho (unsplash.com).
+
 ## Getting started
 
 Search and replace these strings to fit your product and you're good to go!
@@ -33,10 +39,3 @@ subscribe.php
 * `DB_PASSWORD`: database password
 
 Warning: there is no rate limiting or e-mail address format validation.
-
-## Screenshot
-
-![Landing page template screenshot](/screenshot.png?raw=true)
-
-Background image by Bruno Marinho (unsplash.com).
-
